@@ -1,0 +1,14 @@
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\bin\Debug\net7.0\RenameFile.exe
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\bin\Debug\net7.0\RenameFile.deps.json
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\bin\Debug\net7.0\RenameFile.runtimeconfig.json
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\bin\Debug\net7.0\RenameFile.dll
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\bin\Debug\net7.0\RenameFile.pdb
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\RenameFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\RenameFile.AssemblyInfoInputs.cache
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\RenameFile.AssemblyInfo.cs
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\RenameFile.csproj.CoreCompileInputs.cache
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\RenameFile.dll
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\refint\RenameFile.dll
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\RenameFile.pdb
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\RenameFile.genruntimeconfig.cache
+C:\Users\DIOGENESKGM\OneDrive\Documents\my-app\RenameFile\RenameFile\obj\Debug\net7.0\ref\RenameFile.dll
